@@ -5,7 +5,7 @@
     { "id": 3, "name": "Fashion" },
     { "id": 4, "name": "Shopping" }
   ],
-  "comments": [
+  "cities": [
     { "id": 1, "name": "Berlin" },
     { "id": 2, "name": "Barcelona" },
     { "id": 3, "name": "Santander" },
