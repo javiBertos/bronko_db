@@ -6,15 +6,15 @@
     { "id": 4, "name": "Shopping" }
   ],
   "cities": [
-    { "id": 1, "name": "Berlin" },
-    { "id": 2, "name": "Barcelona" },
-    { "id": 3, "name": "Santander" },
-    { "id": 4, "name": "Imagination" }
+    { "id": 1, "name": "Berlin", "image": "https://picsum.photos/id/1040/450.webp" },
+    { "id": 2, "name": "Barcelona", "image": "https://picsum.photos/id/12/450.webp" },
+    { "id": 3, "name": "Santander", "image": "https://picsum.photos/id/1050/450.webp" },
+    { "id": 4, "name": "Imagination", "image": "https://picsum.photos/id/128/450.webp" }
   ],
   "users": [
-    { "id": 1, "name": "Javivi Bertini", "username": "Javivi" },
-    { "id": 2, "name": "Gert Doering", "username": "Gerty" },
-    { "id": 3, "name": "Foo Baz", "username": "FooBy" },
-    { "id": 4, "name": "Unknown man", "username": "whoIam" }
+    { "id": 1, "name": "Javivi Bertini", "username": "Javivi", "email": "javivi@foo.bar", "image": "https://picsum.photos/id/1077/450.webp" },
+    { "id": 2, "name": "Gert Doering", "username": "Gerty", "email": "gerty@foo.bar", "image": "https://picsum.photos/id/103/450.webp" },
+    { "id": 3, "name": "Foo Baz", "username": "FooBy", "email": "fooby@foo.bar", "image": "https://picsum.photos/id/177/450.webp" },
+    { "id": 4, "name": "Unknown man", "username": "whoIam", "email": "whoiam@foo.bar", "image": "https://picsum.photos/id/1/450.webp" }
   ]
 }
